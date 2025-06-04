@@ -63,7 +63,7 @@ function Input() {
               className="bg-blue-300 px-2 py-2 border border-b-blue-700 rounded-xl hover:bg-blue-400 "
             >
               <Image
-                src="./searchicon.png"
+                src="/searchicon.png"
                 alt="Search"
                 width="30"
                 height="30"
